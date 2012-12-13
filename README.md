@@ -1,15 +1,4 @@
 
-<!-- # ------------------------------------------------------------------
-# kickassGFX.net - Best Graphic Source - Free Themes, Scripts & Plugins 
-# -----------------------------------------------------------------------
-# This file has been downloaded from KickassGFX.net
-# Homepage: http://www.kickassgfx.net/
-# -----------------------------------------------------------------------
-# You'll find your Updates everyday at KickassGFX.net
-# -----------------------------------------------------------------------
-# If you need support with this template you can
-# contact us at   http://www.kickassgfx.net/
-# ------------------------------------------------------------------- -->
 <!DOCTYPE html>
 <html lang="en">
 
